@@ -17,9 +17,6 @@
                 type: Function,
                 required: true
             }
-        },
-        methods:{
-
         }
     }
 </script>

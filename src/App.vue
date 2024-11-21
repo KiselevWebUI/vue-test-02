@@ -31,7 +31,7 @@ export default{
         {"id": 16, "name": "Hoodie 2"},
         {"id": 17, "name": "Hoodie 3"},
         {"id": 18, "name": "Hoodie 4"}
-]
+      ]
     }
   },
   methods:{
